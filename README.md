@@ -2,8 +2,4 @@
 
 ![](https://komarev.com/ghpvc/?username=nerdarmin&label=⋆˚࿔&style=flat&color=CAD3EC&abbreviated=true)
 
-<img width="250" height="200" alt="B607A68C-4FF5-4C0D-A414-6143933C3D9B" src="https://github.com/user-attachments/assets/14ad5ef7-f8f2-4554-bb0b-8ed767b6bc40" />
-
-![]()
-
-‎<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Short_Stack&weight=200&size=17&duration=2500&pause=10&color=A2AFDE&center=true&vCenter=true&width=400&height=25&lines=your+light+blue+eyes;didnt+show+surprise;when+i+explained+the+fact;that+im+satisfied" alt="Typing SVG" /></a>
+<img width="250" height="200" alt="88F6AC00-41E1-4537-AE7D-5E064922A295" src="https://github.com/user-attachments/assets/98ac3ada-36a8-4fa3-b1b6-81a9de891d14" />
