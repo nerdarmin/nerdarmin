@@ -6,4 +6,4 @@
 
 ![]()
 
-‎<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Short_Stack&weight=400&size=18&duration=3000&pause=10&color=A2AFDE&center=true&vCenter=true&width=400&height=25&lines=your+light+blue+eyes;didnt+show+surprise;when+i+explained+the+fact;that+im+satisfied" alt="Typing SVG" /></a>
+‎<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Short_Stack&weight=400&size=18&duration=2000&pause=10&color=A2AFDE&center=true&vCenter=true&width=400&height=25&lines=your+light+blue+eyes;didnt+show+surprise;when+i+explained+the+fact;that+im+satisfied" alt="Typing SVG" /></a>
